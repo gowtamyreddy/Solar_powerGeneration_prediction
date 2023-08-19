@@ -1,0 +1,25 @@
+.open spower1
+
+CREATE TABLE weather
+(
+weekno varchar(8),
+mintemp varchar(8),
+maxtemp varchar(8),
+rainfall varchar(8),
+evop varchar(8),
+humidity varchar(8),
+pressure varchar(10)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+mintemp,maxtemp,rainfall,evoporation,humidity,pressure,spower
