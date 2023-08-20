@@ -4,19 +4,19 @@ This project entitled is useful to the power distribution companies to plan the 
  
 # Hardware Requirements 
 
-•	It requires a minimum of 2.16 GHz processor. 
-•	It requires a minimum of 4 GB RAM. 
-•	It requires 64-bit architecture. 
-•	It requires a minimum storage of 500GB. 
+1)It requires a minimum of 2.16 GHz processor. 
+2)It requires a minimum of 4 GB RAM. 
+3)It requires 64-bit architecture. 
+4)It requires a minimum storage of 500GB. 
 
 # Software Requirements
 
-•	It requires a 64-bit Windows Operating System.
-•	Python Qt Designer for designing user interface. 
-•	SQLite3 server for storing database Entities.
-•	Pyuic for converting the layout-designed user interface (UI) to Python code.       
-•	Python language for coding. OpenCV for image Processing.
-•	sklearn for classification.
+1)It requires a 64-bit Windows Operating System.
+2)Python Qt Designer for designing user interface. 
+3)SQLite3 server for storing database Entities.
+4)Pyuic for converting the layout-designed user interface (UI) to Python code.       
+5)Python language for coding. OpenCV for image Processing.
+6)sklearn for classification.
 
  
 
