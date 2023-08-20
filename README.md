@@ -29,8 +29,8 @@ This project entitled is useful to the power distribution companies to plan the 
  
 
  # OUTPUT
-
-![UI 1](https://github.com/gowtamyreddy/Solar_powerGeneration_prediction/assets/142113089/92fbfb88-b539-419d-bee5-19db0556d201)
+ 
+ ![UI 1](https://github.com/gowtamyreddy/Solar_powerGeneration_prediction/assets/142113089/5a0b1833-4d36-4c56-bf30-7990c7e27ec3)
 
 
 
@@ -38,8 +38,4 @@ This project entitled is useful to the power distribution companies to plan the 
 <br>
 
 
-
-
-
-
-![UI2](https://github.com/gowtamyreddy/Solar_powerGeneration_prediction/assets/142113089/51d5701c-d05e-4acb-bbdb-f430a67fb4a4)
+![UI2](https://github.com/gowtamyreddy/Solar_powerGeneration_prediction/assets/142113089/066ed661-07c6-4c73-a9a9-532942f47f15)
